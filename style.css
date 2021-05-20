@@ -54,3 +54,6 @@
     margin: 10px;
     font-size: 30px;
   }
+img:hover {
+  opacity: 0.1;
+}
