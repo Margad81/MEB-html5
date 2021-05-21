@@ -1,6 +1,9 @@
 .header{
     position: sticky;
 }
+body {
+  background-color: black;
+}
 .container{
     position: -webkit-sticky;
     position: sticky;
